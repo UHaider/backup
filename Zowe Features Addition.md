@@ -9,22 +9,22 @@ Information about Zowe can be found on https://zowe.github.io/docs-site/latest/g
 
 
 ## Desirable Skills
-*TypeScript/JavaScript
-*Angular/React
-*Basic zOS familiarity
-*Basic Zowe familiarity
+* TypeScript/JavaScript
+* Angular/React
+* Basic zOS familiarity
+* Basic Zowe familiarity
 
 
 ## Expected Outcome
-*Zowe Application(s)/Plugin(s)
-*Documentation
+* Zowe Application(s)/Plugin(s)
+* Documentation
 
 ## Difficultly
-*Hard
+* Hard
 
 ## Mentors
   * *John Doe <john.doe@notarealemailaddress.com>*
   * *Jane Smith <JSmith@alsonotarealaddress.com>*
 
 ## Additional Contacts
-*slack channel #zowe-onboarding
+* slack channel #zowe-onboarding
